@@ -52,8 +52,8 @@
 - [ ] Tarefa pendente 
 ``` 
 
-- [ ] Tarefa concluída
-- [x] Tarefa pendente 
+- [x] Tarefa concluída
+- [ ] Tarefa pendente 
 
 ## LINKS 
 
