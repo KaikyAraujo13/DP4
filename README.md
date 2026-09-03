@@ -87,3 +87,42 @@ git add .
 git commit -m "Texto com a descrição do que foi implementado"
 git push origin main
 ``` 
+
+``` 
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto. 
+``` 
+
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto. 
+
+## TABELAS 
+
+```
+| Tecnologia | Finalidade | 
+| --- | --- |
+| Git | Controle de vesionamento | 
+| GitHut | Hospedagem e colaboração | 
+| Markdown | Documentação | 
+```
+
+| Tecnologia | Finalidade | 
+| --- | --- |
+| Git | Controle de vesionamento | 
+| GitHut | Hospedagem e colaboração | 
+| Markdown | Documentação | 
+
+
+```
+| Alinhamento à Esquerda | Alinhamento ao Centro | Alinhamento à Direita | 
+| :--- | :---: | ---: | 
+| Texto | Texto | Texto |
+
+```
+| Alinhamento à Esquerda | Alinhamento ao Centro | Alinhamento à Direita | 
+| :--- | :---: | ---: | 
+| Texto | Texto | Texto |
+
+## IMAGENS
+
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+
+![Neymar jr](./Neymar%20jr.jpg)
