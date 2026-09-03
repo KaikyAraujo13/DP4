@@ -52,8 +52,8 @@
 - [ ] Tarefa pendente 
 ``` 
 
-- [ ] Tarefa concluída
-- [x] Tarefa pendente 
+- [x] Tarefa concluída
+- [ ] Tarefa pendente 
 
 ## LINKS 
 
@@ -87,6 +87,7 @@ git add .
 git commit -m "Texto com a descrição do que foi implementado"
 git push origin main
 ``` 
+<<<<<<< HEAD
 
 ``` 
 > Uma boa documentação explica o objetivo, o uso e as limitações de um projeto. 
@@ -126,3 +127,5 @@ git push origin main
 ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 
 ![Neymar jr](./Neymar%20jr.jpg)
+=======
+>>>>>>> f803cde2800cc383d82d3386e32621b25ac3e0f7
